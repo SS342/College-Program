@@ -1,7 +1,7 @@
 # College-Program
 
 ## Предметы
-+ [Матемаика](https://github.com/SS342/College-Program/tree/main/Математика)
++ [Математика](https://github.com/SS342/College-Program/tree/main/Математика)
 + [Обществознание]()
 + [Информатика]()
 + [Химия]()
