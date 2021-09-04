@@ -4,7 +4,7 @@
 
 [1 пара](https://github.com/SS342/College-Program/tree/main/Физика/1%20пара)
 
-[2 пара]()
+[2 пара](https://github.com/SS342/College-Program/tree/main/Физика/2%20пара)
 
 [3 пара]()
 
