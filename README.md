@@ -8,6 +8,6 @@
 + [Иностанный язык]()
 + [Физика](https://github.com/SS342/College-Program/tree/main/Физика)
 + [Русский язык]()
-+ [Литература]()
++ [Литература](https://github.com/SS342/College-Program/tree/main/Литература)
 + [История]()
 + [ОБЖ]()
