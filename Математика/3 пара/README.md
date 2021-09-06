@@ -30,3 +30,4 @@
 ![Alt text](https://github.com/SS342/College-Program/blob/main/Математика/3%20пара/image.png)
 ![Alt text](https://github.com/SS342/College-Program/blob/main/Математика/3%20пара/-V8MtnPLzI8.jpg)
 ![Alt text](https://github.com/SS342/College-Program/blob/main/Математика/3%20пара/zY7127Nt3Bw.jpg)
+![Alt text](https://github.com/SS342/College-Program/blob/main/Математика/3%20пара/QWLt_88NNko.jpg)
