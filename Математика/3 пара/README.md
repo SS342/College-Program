@@ -28,3 +28,5 @@
 тогда для любого элемента Y принадлежащему У из множества Y можно поставить в соответствие только один элемент из множества X для которого у = f(x)
 
 ![Alt text](https://github.com/SS342/College-Program/blob/main/Математика/3%20пара/image.png)
+![Alt text](https://github.com/SS342/College-Program/blob/main/Математика/3%20пара/-V8MtnPLzI8.jpg)
+![Alt text](https://github.com/SS342/College-Program/blob/main/Математика/3%20пара/zY7127Nt3Bw.jpg)
