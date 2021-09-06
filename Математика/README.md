@@ -6,7 +6,7 @@
 
 [2 пара](https://github.com/SS342/College-Program/tree/main/Математика/2%20пара)
 
-[3 пара]()
+[3 пара](https://github.com/SS342/College-Program/blob/main/Математика/3%20пара/README.md)
 
 [4 пара]()
 
